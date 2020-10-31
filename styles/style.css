@@ -10,10 +10,10 @@ html, body {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 24px;
-    font-weight: 400;
+    font-weight: 500;
     background-color: #0d0f12;
     color: #fff;
 }
@@ -159,7 +159,7 @@ form label {
 }
 
 #signin .links a {
-    font-size: 13px;
+    font-size: 12px;
     color: #0084bd;
     text-decoration: none;
     text-align: center;
@@ -169,7 +169,7 @@ form label {
 .bar {
     height: 1px;
     background-color: rgba(138,153,168,0.25);
-    margin-bottom: 16px;
+    margin-bottom: 24px;
     border: none;
 }
 
@@ -214,14 +214,14 @@ form label {
     flex-direction: column;
     align-items: center; 
     
-    font-size: 13px; 
+    font-size: 12px; 
     color: rgba(255,255,255,0.65);
     text-align: center;
     margin-top: 50px;
 }
 
 .footer a {
-    font-size: 13px;
+    font-size: 12px;
     color: rgba(255,255,255,0.65);
 }
 
