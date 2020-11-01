@@ -1,5 +1,5 @@
 # Pluralsight Login Page
-This practice project was created to learn HTML and CSS. 
+In this project I created a clone of the Pluralsight login page with HTML5 and CSS3 including Flexbox and media queries for responsiveness.  
 
 ## Technologies
 * HTML
